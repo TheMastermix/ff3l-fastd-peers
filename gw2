@@ -1,3 +1,4 @@
-# 2nd Gateway (Rüdiger Lorenz) 
+# 2nd Gateway (Pepto) 
+#key "b4da00b391ac4784c837359dbb8b687c342d90acbcb93e6e4135f3b098780d9f";
 key "105459e0c1c415ffbd5b116b190862797e7d2c21eec98fd24fa7371014284243";
 remote ipv4 "gw2.freifunk-3laendereck.de" port 10000;
