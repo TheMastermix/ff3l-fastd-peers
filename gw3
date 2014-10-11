@@ -1,0 +1,3 @@
+# 3rd Gateway (Benjamin Luetker) 
+key "f9fdc5d5a820a556562b3bb04a46ce1677c161c28c660ecdd35b7d4c17e8e5c2";
+remote ipv4 "gw3.freifunk-3laendereck.de" port 10000;
