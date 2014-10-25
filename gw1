@@ -1,3 +1,3 @@
-# 1st Gateway (Bernd Kalbfuss-Zimmermann) 
+# 1st Gateway (Langweiler) 
 key "3681086ba4985c508d55b8260219ef39840f765d65985cf2c6cf5391452a0842";
 remote ipv4 "gw1.freifunk-3laendereck.de" port 10000;
